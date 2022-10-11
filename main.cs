@@ -14,7 +14,6 @@ public class Program
         Console.WriteLine("4 * 2 = " + (4 * 2));
         Console.WriteLine("4 + 4 ÷ 2 = " + (4 + (4 / 2)));
         Console.WriteLine("5 + 2³ = " + (5 + Math.Pow(2, 3)));
-       
         Console.WriteLine("\nDone.");
     }
 }
